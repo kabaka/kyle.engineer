@@ -1,8 +1,17 @@
 # Home
 
-My name is Kyle Johnson. I design and implement solutions to problems at scale.
+My name is Kyle Johnson. I design and implement software solutions to problems at scale.
 
-On this site, you will find links to things I have written (code and otherwise), my photography, and how to get in touch.
+## Software engineering
+
+- [GitHub](https://github.com/kabaka)
+
+
+## Photography
+
+- [gallery.kyle.photography](https://gallery.kyle.photography/)
+
+---
 
 ## Contact me
 
@@ -14,6 +23,5 @@ On this site, you will find links to things I have written (code and otherwise),
 
 ### Direct contact
 
-* Email: [kyle@vacantminded.com](mailto:kyle@vacantminded.com)
+* Email: [me@kyle.engineer](mailto:me@kyle.engineer)
 * Chat: [Signal](https://www.signal.org) or [Telegram](https://telegram.org/) (if you have my mobile number)
-* IRC: I don't really use IRC anymore. 😢
